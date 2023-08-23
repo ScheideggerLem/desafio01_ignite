@@ -12,4 +12,4 @@ Essa será uma aplicação para gerenciar tarefas (em inglês *todos*). S
 - Marcar um *todo* como feito;
 - Excluir um *todo*;
 
-Tudo isso para cada usuário em específico (o `username` será passado pelo header). A seguir veremos com mais detalhes o que e como precisa ser feito 🚀"
+Tudo isso para cada usuário em específico (o `username` será passado pelo header)."
